@@ -1,2 +1,4 @@
 # Hello World Program
-puts "Hello World!"
+def helloWorld
+  puts "Hello World!"
+end
